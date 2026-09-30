@@ -1,0 +1,1 @@
+﻿Forwarding stub. The BenchPilot website moved to https://github.com/justasknick/benchpilot-site (https://justasknick.github.io/benchpilot-site/). Every page here redirects there, keeping query strings and #fragments so Supabase auth links still work.
